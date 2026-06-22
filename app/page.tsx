@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Welcome Home Pussy Boy</div>;
+  return <div>Welcome to LedgrX</div>;
 }
